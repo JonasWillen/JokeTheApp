@@ -2,7 +2,7 @@
 //  JokeModel.swift
 //  JokeTheApp
 //
-//  Created by Jonas Wåhslén on 2020-11-16.
+//  Created by Jonas Willén on 2020-11-16.
 //
 
 import Foundation
